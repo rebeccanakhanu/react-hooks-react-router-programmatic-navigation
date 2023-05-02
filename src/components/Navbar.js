@@ -28,7 +28,7 @@ function Navbar({ setIsLoggedIn }) {
         style={linkStyles}
         /* add prop for activeStyle */
         activeStyle={{
-          background: "darkblue",
+          background: "blue",
         }}
       >
         Home
